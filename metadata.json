@@ -1,0 +1,6 @@
+{
+  "name": "COSMORA AI — Your Personal AI Learning Companion",
+  "description": "IEEE × Alliance University Hackathon 2026: An intelligent, gamified, and collaborative ed-tech learning ecosystem with syllabus analysis, AI tutoring, knowledge galaxy, study rooms, and department-specific pathways.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
